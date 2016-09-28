@@ -1,11 +1,11 @@
-package students.frame;
+package frame;
 
 import java.text.DateFormat;
 import java.util.Vector;
  
 import javax.swing.table.AbstractTableModel;
- 
-import student.logic.Student;
+
+import logic.Student;
 
 public class StudentTableModel extends AbstractTableModel {
 

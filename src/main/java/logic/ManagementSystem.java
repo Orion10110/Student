@@ -1,4 +1,4 @@
-package student.logic;
+package logic;
 
 import java.sql.Connection;
 import java.sql.Date;

@@ -1,4 +1,4 @@
-package student.logic;
+package logic;
 
 import java.text.DateFormat;
 import java.sql.ResultSet;

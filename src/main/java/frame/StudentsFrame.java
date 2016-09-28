@@ -1,5 +1,5 @@
 
-package students.frame;
+package frame;
  
 import java.sql.SQLException;
 import java.util.Collection;
@@ -35,9 +35,9 @@ import javax.swing.event.ChangeListener;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 
-import student.logic.Group;
-import student.logic.ManagementSystem;
-import student.logic.Student;
+import logic.Group;
+import logic.ManagementSystem;
+import logic.Student;
  
 public class StudentsFrame extends JFrame implements ActionListener, ListSelectionListener, ChangeListener{
     // Введем сразу имена для кнопок - потом будем их использовать в обработчиках

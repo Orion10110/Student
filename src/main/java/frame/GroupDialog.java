@@ -1,4 +1,4 @@
-package students.frame;
+package frame;
 
 public class GroupDialog {
 

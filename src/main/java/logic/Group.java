@@ -1,4 +1,4 @@
-package student.logic;
+package logic;
 
 public class Group {
 	 	private int groupId;
